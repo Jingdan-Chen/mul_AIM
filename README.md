@@ -39,3 +39,7 @@ These two files should be prepared in the working dir and they should be placed 
 ### Find1 Mode
 
 The information of points satisfying the threshold
+
+
+
+(Author: Jingdan Chen)
